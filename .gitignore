@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Ignore Visual Studio & Visual Studio Code specific folders.
+**/.vs
+**/.vscode
+
+# Ignore Python specific folders.
+**/__pycache__
+*.pyc
+
+# Ignore outputs for C# projects.
+**/bin
+**/obj
+
+# Ignore nuget packages.
+**/packages
